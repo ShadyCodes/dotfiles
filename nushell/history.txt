@@ -1,0 +1,792 @@
+$nu.env-path
+nvim $nu.env-path
+nvim $nu.config-path
+reboot
+nvim $nu.env-path
+nvim $nu.config-path
+starship
+ls
+cd
+ls
+ls -a
+nu -v
+nu -version
+nvim
+cd .cargo
+ls
+cd bin
+ls
+./starship
+cd
+ls
+nvim $nu.env-path
+restart
+reboot
+starship
+nu
+echo $PATH
+echo $ienv.PATH
+echo $env.PATH
+:Q
+nvim $nu.env-path
+restart
+reboot
+nvim $nu.env-path
+reboot
+echo $env.PATH
+echo $PATH
+nvim $nu.env-path
+reboot
+echo $env.PATH
+starship
+nvim $nu.env-path
+reboot
+echo $env.PATH
+starship
+ls
+nvim .config/starship.toml
+ls
+nvim
+nvim .config/starship.toml
+nvim $nu.env-path
+ls
+nivm
+nvim
+pacman -S ripgrep
+nvim
+pacman -S pyenv
+pyenv
+pacman -h
+pacman -Y pyenv
+pacman -S
+pacman -S pyenv
+sudo pacman -S pyenv
+pacman -h
+pacman -U
+pacman -S
+pacman -V
+man pacman
+pacman -h
+pacman -Syu
+pacman -Syu pyenv
+man
+help pyenv
+help
+help commands
+pyenv -h
+pyenv man
+pyenv
+pyenv --version
+pyenv install --list
+pyenv install 3.12
+pyenv local
+pyenv versions
+pyenv global 3.12.4
+pyenv versions
+python3
+python
+pyenv -h
+pyenv
+pyenv versions
+where pyenv
+which pyenv
+cd /usr/
+;s
+ls
+cd bin
+ls
+./pyenv
+nvim $nu.env-path
+nvim
+python3
+python
+pyenv versions
+eval "$(pyenv init -)"
+nvim $nu.env-path
+reboot
+nvim
+which python
+python
+python3
+nvim
+pacman -Syu
+pacman -h
+pacman -h -Syu
+pacman -h -Sy
+pacman -h -Sy ghc
+pacman -Sy ghc
+ls
+ls -a
+pacman -Sy cabal-install
+nvim
+pacman -Sy ghcup-hs-bin
+pacman -Sy ghcup
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+pacman --list
+pacman -R ghc
+pacman -R cabal-install
+pacman -h
+pacman -F
+pacman -D
+pacman -V
+ls
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+nvim
+ghcup
+source /root/.ghcup/env
+nvim $nu.env-path
+ghcup
+nvim
+nvim $nu.env-path
+ghcup
+nvim
+pacman -S hoogle
+stack install haskell-dap ghci-dap haskell-debug-adapter
+nvim $nu.env-path
+nvim
+ripgrep
+pacman -S ripgrep
+nvim
+ripgrep
+which ripgrep
+cd /usr/
+ls
+cd bin
+ls
+cd
+rg
+which rg
+nvim
+pacman -S fd
+nvim
+cd ..
+ls
+cd opt/
+ls
+cd ..
+ls
+cd
+ls
+cd -a
+cd --a
+ls -a
+nvim
+mkdir teswt
+cd teswt/
+;s
+nvim
+cd
+nvim
+mkdir projects
+cd projecs
+cd projects/
+ls
+cargo
+cargo new
+cargo new fibonacci
+ls
+cd fibonacci/
+cd src
+cd 
+nvim
+nvim
+cd
+nvim
+cd projects/fibonacci/
+nvim
+cd
+nvim
+cd projects/fibonacci/
+nvim
+cd
+nvim
+cd projects/fibonacci/
+nvim
+cd
+nvim
+cd projects/fibonacci/
+nvim
+cd
+nvim
+mkdir cpp-projects
+mkdir test
+cd test
+cd ..
+rm -rf test
+cd cpp-projects/
+mkdir test
+cd test/
+nvim
+cd
+nvim
+cd projects/fibonacci/
+nvim
+cd
+nvim
+pacman -S lldb
+nvim
+nivm
+nvim
+nivm
+nvim
+nvmi
+nvim
+hoogle
+hoogle generate
+nivm
+hoogle
+hoogle map
+hoogle Prelude map
+hoogle Data.list
+hoogle -h
+hoogle 
+hoogle base
+hoogle base 1
+hoogle 0
+hoogle base
+hoogle Numeric.lens base
+hoogle Numeric.lens
+hoogle
+hoogle -v
+help hoogle
+hoogle help
+hoogle
+hoogle --count=1
+nvim
+nvi,
+nvim
+mvo,
+stack install fast-tags
+nvim
+pacman -S hg
+hg
+pacman -S hg_cnd
+pacman -S hg_cmd
+pacman -S mercurial
+hoogle map
+hoogle map | hoogle
+hoogle map
+hoogle Prelude map
+hoogle map :: (a -> b) -> [a] -> [b]
+hoogle map
+hoogle "map :: (a -> b) -> [a] -> [b]<\n>"
+hoogle "map :: (a -> b) -> [a] -> [b]"
+hoogle "Prelude map"
+hoogle "Prelude"
+hoogle "Prelude map"
+hoogle "map :: (a -> b) -> [a] -> [b]"
+nvim
+nvmi
+pacman -S xclip
+nvim
+pacman -R xclip
+pacman -S xsel
+nvim
+pacman -S xsel
+pacman -S tmux
+nvim
+tmux
+nvim
+nvim
+echo $TERM
+echo $env.TERM
+tmux
+nvim
+tmux
+$env.TMUX
+echo $nu.TERM
+echo $nu.env-TERM
+echo $env.TERM
+nvim .tmux.conf
+nvim
+echo $env.TERM
+nvim .tmux.conf
+tmux
+nvim
+ghcup rm haskell-language-server
+haskell-language-server-9.4.8 
+ghcup rm haskell-language-server
+ghcup rm ghc
+ghcup rm ghc -h
+ghcup
+ghcup 
+ghcup rm HLS
+ghcup rm haskell-language-server
+ghcup rm
+ghcup rm (hls)
+ghcup rm hls
+ghcup
+ghcup --version
+ghcup gc
+ghcup --version
+ghcup
+ghcup list
+ghc rm hls 2.7.0.0
+ghcup rm hls 2.7.0.0
+ghcup install ghc 9.10.1
+ghcup install stack 2.15.7
+nvim
+ghcup install hls
+ghcup install hls 2.8.0.0
+ghcup list
+nvim
+pacman -S wget
+nvim
+ls
+ls -a
+cd /usr
+ls
+cd bin
+ls
+./nvim
+nvim
+pacman -h
+pacman --help V
+pacman --help -S
+pacman -h
+pacman fz
+pacman -U fzf
+pacman -S fzf
+pacman -SU fzf
+pacman -Sy fzf
+fzf
+nvim fzf
+ls
+fzf | nvim
+fzf > nvim
+nui
+nu
+nu
+help
+:q
+tmux
+fzf | nvim $in
+pacman -Sy atuin
+atuin
+atuin history
+pacman -h
+pacman -R atuin
+pacman -Uy
+pacman -U
+pacman -UD
+pacman -SU
+pacman -yU
+pacman -U
+pacman -u
+pacman -Syu
+pacman -S btop
+btop
+cargo install bat
+ls
+cd cpp-projects/
+ls
+cd test
+ls
+cat test.cpp
+bat test.cpp
+ls
+eza
+pacman -S eza
+eza
+cd
+eza
+cd projects/
+eza
+ls
+cd test.hs
+eza
+cd fibonacci/
+eza
+pacman -R eza
+neofetch
+btop
+ls
+exa
+fzf
+nvim
+curl -Ls https://api.github.com/repos/achannarasappa/ticker/releases/latest \<\n>| grep -wo "https.*linux-amd64*.tar.gz" \<\n>| wget -qi - \<\n>&& tar -xvf ticker*.tar.gz ticker \<\n>&& chmod +x ./ticker \<\n>&& sudo mv ticker /usr/local/bin/
+curl -Ls https://api.github.com/repos/achannarasappa/ticker/releases/latest \<\n>| grep -wo "https.*linux-amd64*.tar.gz" \<\n>| wget -qi - \<\n>; tar -xvf ticker*.tar.gz ticker \<\n>; chmod +x ./ticker \<\n>; sudo mv ticker /usr/local/bin/
+pacman -S grep
+y
+pacman -S grep
+pacman -Sy grep
+curl -Ls https://api.github.com/repos/achannarasappa/ticker/releases/latest \<\n>| grep -wo "https.*linux-amd64*.tar.gz" \<\n>| wget -qi - \<\n>; tar -xvf ticker*.tar.gz ticker \<\n>; chmod +x ./ticker \<\n>; sudo mv ticker /usr/local/bin/
+grep
+curl -Ls https://api.github.com/repos/achannarasappa/ticker/releases/latest<\n>| grep -wo "https.*linux-amd64*.tar.gz" \<\n>| wget -qi - \<\n>; tar -xvf ticker*.tar.gz ticker \<\n>; chmod +x ./ticker \<\n>; sudo mv ticker /usr/local/bin/
+curl -Ls https://api.github.com/repos/achannarasappa/ticker/releases/latest | grep -wo "https.*linux-amd64*.tar.gz" \<\n>| wget -qi - \<\n>; tar -xvf ticker*.tar.gz ticker \<\n>; chmod +x ./ticker \<\n>; sudo mv ticker /usr/local/bin/
+curl -Ls https://api.github.com/repos/achannarasappa/ticker/releases/latest | grep -wo "https.*linux-amd64*.tar.gz" | wget -qi - ; tar -xvf ticker*.tar.gz ticker \<\n>; chmod +x ./ticker \<\n>; sudo mv ticker /usr/local/bin/
+curl -Ls https://api.github.com/repos/achannarasappa/ticker/releases/latest | grep -wo "https.*linux-amd64*.tar.gz" | wget -qi - ; tar -xvf ticker*.tar.gz ticker; chmod +x ./ticker; sudo mv ticker /usr/local/bin/
+ticker
+ls
+ticker -w NET,AAPLTSLA
+ticker -w NET,AAPL,TSLA
+fzf
+ls
+rm -rf ticker-4.6.3-linux-amd64.tar.gz
+rm -rf ticker-4.6.3-linux-amd64.tar.gz.1
+ls
+cd
+ls
+ls -a
+fzf
+ls -a
+cd /usr/
+ls
+cd bin
+ls
+fz
+fzf
+cd ..
+cd local
+cd bin
+fzf
+ls
+cd ..
+ls
+cd ..
+ls
+cd
+ticker -w NET,AAPL,TSLA, KS11
+nvim
+ls
+cd projects/
+cd fibonacci/
+git config --global user.email
+ls
+git config --global user.email "sdbkar23@gmail.com"
+git config --global user.name "Dharshan.B"
+nvim
+cd ..
+ls
+cd trip
+s
+ls
+nvim
+ls
+cd ..
+ls
+cd projects/
+ls
+rm -rf trip
+cd fibonacci/
+ls
+git prune
+git worktree
+git worktree list
+nvim
+cd
+ticker -w VIX
+ticker -w ^VIX
+cargo install tickrs
+tickrs
+cd .config
+ls
+cd tickrs/
+ls
+nvim config.yml
+tickrs
+nvim config.yml
+tickrs
+nvim config.yml
+tickrs
+nvim config.yml
+tickrs
+nvim config.yml
+tickrs
+ls
+nvim config.yml
+tickrs
+nvim
+ls
+nvim
+ip a
+nvim
+neofect
+neofetch
+nvim#
+nvim
+pacman -Sy cmake
+nvim
+pacman -Sy make
+gcc
+nvim
+nivm
+nvim
+nivm
+nvim
+nivm
+nvim
+nvimn
+nvim
+fzf init.lua
+fzf
+nvim fzf
+fzf nvim
+fzf | nvim
+fzf
+nvim { 'nvim-telescope/telescope-fzf-native.nvim', build = 'cmake -S. -Bbuild -DCMAKE_BUILD_TYPE=Release && cmake --build build --config Release' }
+nvim .config/nvim/lua/plugins/init.lua
+nvim
+nvim .config/nvim/lua/plugins/init.lua
+nvim
+nvinm
+nvim
+nivm
+nvim
+nivm
+nvim
+fzf
+nvim
+nivm
+nvim
+rg 
+rg --hidden live_grep
+rg live_grep
+nvim
+nivm
+nvim
+nivm
+nvim
+gfd
+fd
+fd ?
+fd help
+fd --help
+pacman -SYU
+pacman -YU
+pacman --help
+pacman -S
+pacman -SYU
+pacman -SY
+pacman -Syu
+nvim
+cd .config
+ls
+nvim
+ls
+nvim
+git status
+nvim
+git remote add origin git@github.com:ShadyCodes/dotfiles.git
+git push -u origin main
+git push -u origin master
+nvim
+git status
+ssh
+git push -u origin master
+git push -u origin
+git push --set-upstream origin master
+pacman -Sy openssh
+git push --set-upstream origin master
+openssh
+ssh
+ssh -h
+ssh --help
+nvim
+ssh-keygen
+ssh-keygen -t ed25519 -C "sdbkar23@gmail.com"
+ls
+cd ..
+ssh-keygen -t ed25519 -C "sdbkar23@gmail.com"
+ls
+nvim
+pacman -Sy xsel
+nvim
+pacman -Sy xclip
+nvim
+pacman -R xclip
+pacman -R xsel
+nvim
+tmux
+cd .config
+nvim
+git push --set-upstream origin master
+:q
+nvim
+cd
+nvim
+cd .config
+git status
+nvim
+git fetch
+ssh-agent
+ssh-agent bash
+git fetch
+cd 
+ls
+cd .ssh
+ls
+nvim
+ssh-keygen -t ed25519 -C "sdbkar23@gmail.com"
+nvim
+cd ../.config
+git fetch
+cd
+nvim
+cd .config
+git fetch
+cd
+nvim
+cd .config
+git fetch
+cd
+nvim
+cd .config
+git fetch
+cd .config
+cd
+ls
+nvim
+cd .config/
+git fetch
+tmux
+ssh-list
+ssh --help
+ssh-remove
+ssh-add
+ls
+cd 
+cd .ssh
+ls
+ssh-add id_github
+ssh-agent -s
+ssh-add id_github
+ssh-agent -s
+ssh-agent
+eval ssh-agent
+ssh-agent
+ssh-add id_github
+ssh-add ./id_github
+ssh
+ssh-agent
+ssh-agent --help
+ssh-agent -c
+ssh-agent -k
+ssh-agent -s
+ssh-agent -t 100
+ssh-add ./id_github
+pacman -R openssh
+pacman -Sy openssh
+ls
+ssh-add id_github
+ssh-agent
+ssh-agent -c
+ssh-agent -c | lines | first 2
+ssh-agent
+ssh-agent -s
+ls
+hto
+htop
+btop
+cd .ssh
+ssh-add
+ssh-add id_github
+ls
+cd
+cd .config
+git fetch
+ssh-keygen -R "sdbkar23@gmail.com"
+cd
+cd .ssh
+nvim
+ssh-keygen -R "github.com"
+ls
+cd ../.config
+git fetch
+cd
+nvim
+ssh-keygen -R "github.com"
+cd .config
+git fetch
+ssh-keygen -R "github.com"
+cd .config
+git fetch
+cd
+nvim
+cd .config
+nvim
+cd 
+git clone git@github.com:ShadyCodes/dotfiles.git
+nvim
+ls
+ssh-keygen -t ed25519 -C "sdbkar23@gmail.com"
+nvim
+ls
+git clone git@github.com:ShadyCodes/dotfiles.git
+nvim
+ls
+nvim
+ls
+ssh-keygen -RH "github.com"
+ssh-keygen -R "github.com"
+git clone git@github.com:ShadyCodes/dotfiles.git
+nvim
+git clone git@github.com:ShadyCodes/dotfiles.git
+nvim .ssh
+git clone git@github.com:ShadyCodes/dotfiles.git
+ssh-keyscan -t rsa github.com
+nvim
+ssh-keyscan -t rsa github.com
+git clone git@github.com:ShadyCodes/dotfiles.git
+nvim
+git clone git@github.com:ShadyCodes/dotfiles.git
+ssh-keyscan -t rsa github.com
+nvim
+git clone git@github.com:ShadyCodes/dotfiles.git
+nvim
+git clone git@github.com:ShadyCodes/dotfiles.git
+ssh -vT git@github.com
+nvim
+ssh -T git@github.com
+ssh-add -l -E sha256
+ls
+nvim
+tmux
+nvim
+nu
+nu
+ls
+nvim
+ls
+cd .config
+ls
+cd nushell/
+bat config.nu
+nvim
+nu
+nvim
+ssh-add -l -E sha256
+git clone git@github.com:ShadyCodes/dotfiles.git
+nvim
+ssh-keygen -R "github.com"
+ssh-keygen -t ed25519 -C "sdbkar23@gmail.com"
+cd .ssh
+nvim
+cd
+nvim
+cd ..
+ls
+cd 
+ls
+git clone git@github.com:ShadyCodes/dotfiles.git
+ls
+nvim
+tmux
+cd .config
+ls
+nvim
+ls
+nvim
+cd
+cd projects/
+ls
+cd fibonacci/
+cd
+cd .config
+nvim
+fzf
+fzf --hidden
+fzf -h
+cd
+fzf
+nvim

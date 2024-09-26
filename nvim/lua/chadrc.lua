@@ -18,4 +18,8 @@ M.ui = {
 
 vim.g.nvimtree_side = "right"
 
+vim.cmd [[colorscheme monokai-pro]]
+require("ibl").setup {
+  indent = { highlight = "Comment" },
+}
 return M
