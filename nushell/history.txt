@@ -790,3 +790,135 @@ fzf -h
 cd
 fzf
 nvim
+ls
+cd .config
+ls
+mkdir nvim
+cd nvim
+mkdir lua
+touch lua/preferences.lua
+tree
+tee
+ls
+mv nvim init.lua
+ls
+mv nvim init.lua
+ls
+touch init.lua
+ls
+nvim init.lua
+nvim
+nvim init.lua
+nvim
+nvim init.lua
+nvim
+cd lua
+ls
+nvim preferences.lua
+cd ..
+nvim init.lua
+nvim
+nvim init.lua
+:Q
+:q
+cd ..
+ls
+cd nvim
+ls
+cd ..
+rm -rf nvim
+mkdir nvim
+cd nvim
+ls
+git clone https://github.com/abdul-hannan-ahmad/Neovim-For-The-Chads/tree/main/lua
+git clone https://github.com/abdul-hannan-ahmad/Neovim-For-The-Chads/
+ls
+cd Neovim-For-The-Chads/
+ls
+cd ..
+mv Neovim-For-The-Chads/ ../nvim/
+mv Neovim-For-The-Chads/ ../nvim2
+ls
+cd ..
+ls
+rm -rf nvim
+mv nvim2 nvim
+ls
+cd nvim
+ls
+cd init.lua
+nvim
+cd ..
+ls
+nvim
+ls
+cd tmp
+cd ..
+mv tmp/neo-tree.lua nvim/lua/plugins/
+nvim
+yazi
+man pacman
+pacman
+pacman -Sy yazi
+yazi
+nvim
+tmux
+nivm
+ls
+ls -a
+cd nvim-bkup/
+ls
+cd lua
+ls
+nvim chadrc.lua
+nvim
+nvimn
+nvim
+nivm
+nvim
+nivm
+nvim
+ls
+cd ..
+ls
+cd ..
+ls
+cd
+ls
+which nvim
+nvim -v
+nvim
+nivm
+nvim
+nivm
+nvim
+nivm
+nvim
+nivm
+nvim
+nivm
+nvim
+nivm
+nvim
+nivm
+nvim
+nivm
+nvim
+azi
+yazi
+yazi -v
+yazi --v
+yazi --help
+yazi -V
+yazi
+nvim
+yazi
+nvim
+fzf
+nvim
+fzf
+nvim
+lazygit
+git
+pacman -Sy lazygit
+lazygit
