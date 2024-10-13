@@ -7,7 +7,7 @@ return {
 		"p00f/clangd_extensions.nvim",
 		opts = {
 			inlay_hints = {
-				inline = 0,
+				inline = false,
 				-- Options other than `highlight' and `priority' only work
 				-- if `inline' is disabled
 				-- Only show inlay hints for the current line

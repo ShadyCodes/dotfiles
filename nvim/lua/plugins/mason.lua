@@ -38,6 +38,7 @@ return {
 				"stylua", -- lua formatter
 				"isort", -- python formatter
 				"black", -- python formatter
+				"python-lsp-server",
 				"pylint",
 				"eslint_d",
 			},
