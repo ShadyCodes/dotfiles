@@ -1,0 +1,98 @@
+[flavor]
+use = "kanagawa"
+
+[manager]
+marker_copied   = { fg = "#a9dc76", bg = "#a9dc76" } # green
+marker_cut      = { fg = "#ff6188", bg = "#ff6188" } # red
+marker_marked   = { fg = "#ab9df2", bg = "#ab9df2" } # magenta
+marker_selected = { fg = "#78dce8", bg = "#78dce8" } # cyan
+
+cwd = { fg = "#ffd866" } # yellow
+
+# default bg
+count_copied   = { fg = "#1f1f28", bg = "#a9dc76" } # green
+count_cut      = { fg = "#1f1f28", bg = "#ff6188" } # red
+count_selected = { fg = "#1f1f28", bg = "#ffd866" } # yellow
+
+border_style = { fg = "#c1c0c0"} # white
+
+
+[status]
+separator_style = { fg = "reset", bg = "#363646" } # light bg
+
+# default bg
+mode_normal = { fg = "#1f1f28", bg = "#78dce8", bold = true } # blue
+mode_select = { fg = "#1f1f28", bg = "#ab9df2", bold = true } # magenta
+mode_unset  = { fg = "#1f1f28", bg = "#ffd866", bold = true } # yellow
+
+# blue - light bg
+progress_label  = { fg = "#78dce8", bg = "#403e41", bold = true }
+# light bg - default bg
+progress_normal = { fg = "#2d2a2e", bg = "#19181a" }
+progress_error  = { fg = "#2d2a2e", bg = "#19181a" }
+
+permissions_t = { fg = "#a9dc76" } # green
+permissions_r = { fg = "#ffd866" } # yellow
+permissions_w = { fg = "#ff6188" } # red
+permissions_x = { fg = "#78dce8" } # cyan
+permissions_s = { fg = "#ab9df2" } # magenta
+
+[select]
+border   = { fg = "#78dce8" } # blue
+active   = { fg = "#ab9df2", bold = true } # magenta
+
+[input]
+border   = { fg = "#78dce8" } # blue
+
+[completion]
+border   = { fg = "#78dce8" } # blue
+
+[tasks]
+border  = { fg = "#78dce8" } # blue
+hovered = { fg = "#ab9df2" } # magenta
+
+[which]
+separator_style = { fg = "#727072" } # darkgrey
+mask = { bg = "#19181a" } # dark bg
+rest = { fg = "#727072" } # darkgrey
+cand = { fg = "#78dce8" }
+desc = { fg = "#5b595c" }
+
+[help]
+on      = { fg = "#78dce8" } # cyan
+run     = { fg = "#ab9df2" } # magenta
+footer  = { fg = "#19181a", bg = "#c1c0c0" } # white
+
+[notify]
+title_info  = { fg = "#a9dc76" } # green
+title_warn  = { fg = "#ffd866" } # yellow
+title_error = { fg = "#ff6188" } # red
+
+# files
+[filetype]
+rules = [
+    { mime = "image/*", fg = "#ffd866" },
+    { mime = "{audio,video}/*", fg = "#ab9df2" },
+    { mime = "application/{,g}zip", fg = "#ff6188" },
+    { mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", fg = "#ff6188" },
+    { mime = "application/{pdf,doc,rtf,vnd.*}", fg = "#a9dc76" },
+    { name = "*", is = "orphan", fg = "#ff6188" },
+    { name = "*", is = "exec", fg = "#ab9df2" },
+    { name = "*/", fg = "#78dce8"}
+]
+
+  # dark2 = "#19181a",
+  # dark1 = "#221f22",
+  # background = "#2d2a2e",
+  # text = "#fcfcfa",
+  # accent1 = "#ff6188",
+  # accent2 = "#fc9867",
+  # accent3 = "#ffd866",
+  # accent4 = "#a9dc76",
+  # accent5 = "#78dce8",
+  # accent6 = "#ab9df2",
+  # dimmed1 = "#c1c0c0",
+  # dimmed2 = "#939293", -- border
+  # dimmed3 = "#727072",
+  # dimmed4 = "#5b595c",
+  # dimmed5 = "#403e41",
