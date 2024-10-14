@@ -10,7 +10,7 @@ return {
 		highlight = { enable = true, use_languagetree = true },
 		indent = { enable = true },
 	},
-	config = function(opts)
+	config = function(_, opts)
 		require("nvim-treesitter.configs").setup(opts)
 	end,
 }

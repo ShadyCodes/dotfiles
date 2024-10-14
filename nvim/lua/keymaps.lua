@@ -42,10 +42,9 @@ map("n", "<leader>q", ":lua vim.diagnostic.setloclist()<CR>", { desc = "Toggle d
 
 map("n", "<tab>", ":BufferNext<CR>")
 map("n", "<S-tab>", ":BufferPrevious<CR>")
-map("n", "<leader>x", ":bdel<CR>")
+map("n", "<leader>x", ":confirm BufferClose<CR>")
 map("n", "<leader>tr", ":ToggleTerm<CR>")
 
----nvchad defaults
 map("i", "<C-b>", "<ESC>^i", { desc = "move beginning of line" })
 map("i", "<C-e>", "<End>", { desc = "move end of line" })
 map("i", "<C-h>", "<Left>", { desc = "move left" })

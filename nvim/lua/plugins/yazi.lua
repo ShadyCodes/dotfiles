@@ -32,6 +32,7 @@ return {
 			hovered_buffer = nil,
 			hovered_buffer_in_same_directory = nil,
 		},
-		highlight_hovered_buffers_in_same_directory = true,
+		highlight_hovered_buffers = false,
+		highlight_hovered_buffers_in_same_directory = false,
 	},
 }
